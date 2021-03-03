@@ -1,0 +1,4 @@
+devtools::document()
+devtools::load_all()
+devtools::install()
+library(varcont)
